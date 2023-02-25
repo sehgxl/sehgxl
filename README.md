@@ -1,7 +1,7 @@
 - Hi, I’m Abhinav.
 - Writing code is fun fr.
 - Email - abhinavsehgal802@gmail.com
-- Twitter - sehgxl
+- Twitter - [sehgxl](https://twitter.com/sehgxl)
 
 <!---
 sehgxl/sehgxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
