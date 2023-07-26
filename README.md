@@ -1,6 +1,6 @@
 - Hi, I’m Abhinav.
 - Writing code is fun fr.
-- [Website](https://sehgxl.vercel.app)
+- sehgxl.site
 - Email - abhinavsehgal802@gmail.com
 - Twitter - [sehgxl](https://twitter.com/sehgxl)
 
