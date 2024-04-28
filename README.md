@@ -1,5 +1,5 @@
 - Hi, I’m Abhinav.
-- [sehgxl.site](https://sehgxl.site)
+- Internet Land - [sehgxl.site](https://sehgxl.site)
 - Email - abhinavsehgal802@gmail.com
 - Twitter - [sehgxl](https://twitter.com/sehgxl)
 
