@@ -1,7 +1,6 @@
 - Hi, I’m Abhinav.
-- Writing code is fun fr.
 - [sehgxl.site](https://sehgxl.site)
-- Email - abhinav@sehgxl.site
+- Email - abhinavsehgal802@gmail.com
 - Twitter - [sehgxl](https://twitter.com/sehgxl)
 
 <!---
